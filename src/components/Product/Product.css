@@ -2,7 +2,7 @@
     display: flex;
     border-bottom: 1px solid lightgrey;
     margin: 0px 10px;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
     padding-bottom: 20px;
 }
 .product-details{
@@ -12,7 +12,7 @@
     color: rgb(38, 30, 112);
 }
 .btn-generic{
-    background-color: #ff9801;
+    background-color: rgb(253, 167, 37);
     font-weight: 800;
     border: none;
     border-radius: 3px;
