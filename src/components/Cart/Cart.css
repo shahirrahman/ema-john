@@ -1,7 +1,12 @@
 .cart{
+    position: sticky;
+    top: 0;
     margin: 5px 10px;
 }
-
+.costs h4{
+    text-align: center;
+    margin-top: 8px;
+}
 .costs p{
     margin: 0;
     padding-bottom: 5px;
