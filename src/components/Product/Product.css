@@ -1,0 +1,21 @@
+.single-product{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+    margin: 0px 10px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+.product-details{
+    margin-left: 25px;
+}
+.product-name{
+    color: rgb(38, 30, 112);
+}
+.btn-generic{
+    background-color: #ff9801;
+    font-weight: 800;
+    border: none;
+    border-radius: 3px;
+    padding: 8px;
+    width: 160px;
+}
